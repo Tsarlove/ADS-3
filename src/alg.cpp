@@ -15,3 +15,4 @@ unsigned int seqCollatz(unsigned int *maxlen,
                         uint64_t rbound) {
   return 1;
 }
+
