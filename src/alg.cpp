@@ -44,4 +44,3 @@ unsigned int seqCollatz(unsigned int *maxlen, uint64_t lbound, uint64_t rbound) 
     *maxlen = longest;
     return static_cast<unsigned int>(bestNum);
 }
-
